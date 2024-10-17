@@ -1,5 +1,5 @@
 
-# Proyecto de Criptografía Clásica - README
+# Proyecto de Criptografía Clásica
 
 Este proyecto implementa varios algoritmos de cifrado clásico y métodos para atacarlos. A continuación, te explicamos cada componente de este proyecto, junto con ejemplos de uso para que cualquier persona pueda entender y aplicar estos conceptos.
 
